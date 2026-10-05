@@ -1,4 +1,6 @@
 {
-	"latest_version": 1,
-	"updates": []
+	"version": "1",
+	"name": "Курьер",
+	"package": "courier.pck"
 }
+
