@@ -1,6 +1,9 @@
 {
-	"version": "1.1",
-	"name": "Курьер",
-	"package": "courier.pck"
+    "updates": [
+        {
+            "version": 2,
+            "name": "Курьер",
+            "package": "courier.pck"
+        }
+    ]
 }
-
