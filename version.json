@@ -2,6 +2,7 @@
     "updates": [
         {
             "version": 2,
+            "base_version": 1,
             "name": "Курьер",
             "package": "courier.pck"
         }
