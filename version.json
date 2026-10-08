@@ -5,6 +5,12 @@
             "base_version": 1,
             "name": "Курьер",
             "package": "courier.pck"
+        },
+        {
+        	"version": "3",
+        	"base_version": = 1,
+        	"name": "шуршал-ботва-тест",
+        	"package": "eliza.pck"
         }
     ]
 }
