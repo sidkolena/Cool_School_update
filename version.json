@@ -11,6 +11,12 @@
         	"base_version": 1,
         	"name": "шуршал-ботва-тест",
         	"package": "eliza.pck"
+        },
+        {
+        	"version": "4",
+        	"base_version": "1",
+        	"name": "Петрова и Монстры",
+        	"package": "petrova_riddles.pck"
         }
     ]
 }
