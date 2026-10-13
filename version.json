@@ -17,6 +17,12 @@
         	"base_version": "1",
         	"name": "Петрова и Монстры",
         	"package": "petrova_riddles.pck"
+        },
+        {
+    	"base_version": "1",
+    	"version": "5",
+    	"name": "merits_data.json",
+    	"package": "merits_data.json.pck"
         }
     ]
 }
