@@ -13,16 +13,15 @@
         	"package": "eliza.pck"
         },
         {
+        	"base_version": "1",
         	"version": "4",
+        	"name": "update_reader",
+        	"package": "update_reader.pck"
+        },
+            "version": "5",
         	"base_version": "1",
         	"name": "Петрова и Монстры",
         	"package": "petrova_riddles.pck"
-        },
-        {
-    	"base_version": "1",
-    	"version": "5",
-    	"name": "merits_data.json",
-    	"package": "merits_data.json.pck"
         }
     ]
 }
