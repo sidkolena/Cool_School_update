@@ -1,27 +1,28 @@
 {
     "updates": [
         {
-            "version": 2,
-            "base_version": 1,
-            "name": "Курьер",
-            "package": "courier.pck"
+            "version": "5",
+        	"base_version": "1",
+        	"name": "Петрова и Монстры",
+        	"package": "petrova_riddles.pck"
         },
-        {
-        	"version": "3",
-        	"base_version": 1,
-        	"name": "шуршал-ботва-тест",
-        	"package": "eliza.pck"
-        },
-        {
+		{
         	"base_version": "1",
         	"version": "4",
         	"name": "update_reader",
         	"package": "update_reader.pck"
         },
-            "version": "5",
-        	"base_version": "1",
-        	"name": "Петрова и Монстры",
-        	"package": "petrova_riddles.pck"
-        }
+		{
+        	"version": "3",
+        	"base_version": 1,
+        	"name": "шуршал-ботва-тест",
+        	"package": "eliza.pck"
+        },
+		{
+            "version": 2,
+            "base_version": 1,
+            "name": "Курьер",
+            "package": "courier.pck"
+        },
     ]
 }
