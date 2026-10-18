@@ -1,5 +1,11 @@
 {
     "updates": [
+		{
+		"base_version": "1",
+		"version": "6",
+		"name": "Спасение Рыцаря",
+		"package": "knight_rescue.pck"
+		},
         {
             "version": "5",
         	"base_version": "1",
