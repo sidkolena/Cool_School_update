@@ -2,6 +2,12 @@
     "updates": [
 		{
 		"base_version": "1",
+		"version": "7",
+		"name": "Шкаф-самохранка",
+		"package": "knights_castle.pck"
+		},
+		{
+		"base_version": "1",
 		"version": "6",
 		"name": "Спасение Рыцаря",
 		"package": "knight_rescue.pck"
