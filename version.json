@@ -1,37 +1,7 @@
 {
     "updates": [
 		{
-		"base_version": "1",
-		"version": "7",
-		"name": "Шкаф-самохранка",
-		"package": "knights_castle.pck"
-		},
-		{
-		"base_version": "1",
-		"version": "6",
-		"name": "Спасение Рыцаря",
-		"package": "knight_rescue.pck"
-		},
-        {
-            "version": "5",
-        	"base_version": "1",
-        	"name": "Петрова и Монстры",
-        	"package": "petrova_riddles.pck"
-        },
-		{
-        	"base_version": "1",
-        	"version": "4",
-        	"name": "update_reader",
-        	"package": "update_reader.pck"
-        },
-		{
-        	"version": "3",
-        	"base_version": 1,
-        	"name": "шуршал-ботва-тест",
-        	"package": "eliza.pck"
-        },
-		{
-            "version": 2,
+            "version": 0,
             "base_version": 1,
             "name": "Курьер",
             "package": "courier.pck"
