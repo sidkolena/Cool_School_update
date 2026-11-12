@@ -5,6 +5,12 @@
 		"version": "2",
 		"name": "Скатерть_самодранка",
 		"package": "tattered_tablecloth.pck"
+		},
+		{
+		"base_version": "1",
+		"version": "3",
+		"name": "замена зельеварения",
+		"package": "solutions.pck"
 		}
     ]
 }
